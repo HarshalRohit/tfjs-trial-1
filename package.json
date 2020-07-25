@@ -1,0 +1,14 @@
+{
+  "name": "classify-cats-and-dogs",
+  "version": "1.0.0",
+  "description": "Convert course 2 lesson 2 notebook to tensorflow js version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harshal Rohit",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^2.0.1"
+  }
+}
